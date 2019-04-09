@@ -1,1 +1,3 @@
-console.log("Welcome it's parcel time")
+const messages = require('./messages.js')
+
+console.log(messages[0])
